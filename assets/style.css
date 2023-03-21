@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #1e2124;
+}
+
+h1 {
+    color: #D9DCD6;
+}
+
+h2 {
+    color: #D9DCD6;
+}
+
+img {
+    display: block;
+    height: 20%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #D9DCD6;
+}
+
+.lesson {
+    font-family: 'Lucida Grande', 'Lucida Sans Regular', 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#contactlist {
+    border: green;
+    border-style: double;
+    color: #D9DCD6;
+    text-align: left;
+    padding: 0 40%;
+}
